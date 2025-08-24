@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PerimeterX/flast.git"
+    "url": "git+https://github.com/HumanSecurity/flast.git"
   },
   "keywords": [
     "js",
@@ -22,16 +22,16 @@
   "author": "Ben Baryo (ben.baryo@humansecurity.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PerimeterX/flast/issues"
+    "url": "https://github.com/HumanSecurity/flast/issues"
   },
-  "homepage": "https://github.com/PerimeterX/flast#readme",
+  "homepage": "https://github.com/HumanSecurity/flast#readme",
   "dependencies": {
     "escodegen": "npm:@javascript-obfuscator/escodegen",
-    "eslint-scope": "^8.3.0",
-    "espree": "^10.3.0"
+    "eslint-scope": "^8.4.0",
+    "espree": "^10.4.0"
   },
   "devDependencies": {
-    "eslint": "^9.26.0",
+    "eslint": "^9.34.0",
     "husky": "^9.1.7"
   }
 }

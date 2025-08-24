@@ -1,5 +1,5 @@
 # flAST - FLat Abstract Syntax Tree
-[![Run Tests](https://github.com/PerimeterX/flast/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/PerimeterX/flast/actions/workflows/node.js.yml)
+[![Run Tests](https://github.com/HumanSecurity/flast/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/HumanSecurity/flast/actions/workflows/node.js.yml)
 [![Downloads](https://img.shields.io/npm/dm/flast.svg?maxAge=43200)](https://www.npmjs.com/package/flast)
 
 Efficient, flat, and richly-annotated JavaScript AST manipulation for code transformation, analysis, and more.
@@ -25,7 +25,7 @@ npm install flast
 
 ### Clone the Repo
 ```bash
-git clone git@github.com:PerimeterX/flast.git
+git clone git@github.com:HumanSecurity/flast.git
 cd flast
 npm install
 ```
@@ -226,8 +226,8 @@ console.log(result); // var a = b; var b = 42; console.log(b);
 ---
 
 ## Projects Using flAST
-- **[Obfuscation-Detector](https://github.com/PerimeterX/obfuscation-detector):** Uses flAST to analyze and detect unique obfuscation in JavaScript code.
-- **[REstringer](https://github.com/PerimeterX/restringer):** Uses flAST for advanced code transformation and analysis.
+- **[Obfuscation-Detector](https://github.com/HumanSecurity/obfuscation-detector):** Uses flAST to analyze and detect unique obfuscation in JavaScript code.
+- **[REstringer](https://github.com/HumanSecurity/restringer):** Uses flAST for advanced code transformation and analysis.
 
 ---
 
